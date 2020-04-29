@@ -1,0 +1,50 @@
+.calculator {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  background-color: rgb(40, 40, 40);
+  width: 496px;
+  height: 482px;
+  border-radius: 10px;
+}
+.input {
+  color: aliceblue;
+  font-size: 45px;
+  text-align: right;
+  border: none;
+  background-color: rgb(40, 40, 40);
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 25px;
+  height: 80px;
+  width: 490px;
+}
+.button {
+  font-size: 30px;
+  padding: none;
+  margin: none;
+  border-radius: 3px;
+  border: none;
+  background-color: black;
+  width: 120px;
+  height: 70px;
+}
+.buttonOrange {
+  background-color: orange;
+}
+.buttonGrey {
+  background-color: rgb(30, 30, 30);
+}
+.buttonLightGrey {
+  background-color: rgb(65, 65, 65);
+}
+.buttonZero {
+  width: 244px;
+  height: 70px;
+}
+.buttonBottomLeft {
+  border-radius: 3px 3px 3px 10px;
+}
+.buttonBottomRight {
+  border-radius: 3px 3px 10px 3px;
+}
